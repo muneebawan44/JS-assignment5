@@ -1,1 +1,1 @@
-This is a javascript assignmrnt5
+This is a javascript assignment 5
